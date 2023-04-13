@@ -24,22 +24,6 @@ Here are some ideas to get you started:
 
 </h2>
 
-<hr/>
-<!--
-## About Me
-Hey My Name is Sylvain Chochod, I am Mentor & developer advocate. I am passionate about technology. Looking forward to sharing my experiences.
--->
-
-<a href="https://www.codechef.com/users/night_king_">
-  <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
-<a href="https://codeforces.com/profile/night_king_">
-  <img  alt="Parth's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-
-<hr/>
-
 <h1 align="center">
 ✨ DEVELOPER WEB PROGRAM ✨
 
